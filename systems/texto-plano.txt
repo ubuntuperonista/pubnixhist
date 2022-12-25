@@ -1,0 +1,13 @@
+System Name texto-plano.xyz
+UUCP Name(s)	?
+Start Year	2019
+Last Seen 2022
+Active? yes
+URL(s)	texto-plano.xyz:22
+Operating System(s) OpenBSD
+Web Server  https://texto-plano.xyz/
+Hardware	amd64, 2GB RAM
+Location	?
+Key Figures Francisco Fuentes (aka ffuentes)
+Local Software	?
+Notes A tilde system in Spanish.
